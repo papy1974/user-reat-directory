@@ -1,4 +1,4 @@
-title
+Title
 
 The project is named User-react-directory.
 
@@ -17,14 +17,23 @@ In order to use the project the following software must be installed in your com
 example usage
 
 After forking and cloning the project repertory from Github, the following code can be type in git bash to view the project codes and files: git clone to get project in your directory, cd project name, and code follow by (.). open the terminal and type npm install. At the end type npm start to open the in your localhost. Use the following step for heroku deployment: 
+
 npm install -g create-react-app
+
 create-react-app my-app
+
 cd my-app
+
 git init
+
 heroku create -b https://github.com/mars/create-react-app-buildpack.git
+
 git add .
+
 git commit -m "react-create-app on Heroku"
+
 git push heroku master
+
 heroku open
 
 Environment
