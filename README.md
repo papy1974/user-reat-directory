@@ -1,8 +1,10 @@
 title
-The project is named code quiz which allowed the user save his initials at the end.
+The project is named User-react-directory.
 
 objective
-The purpose of this project is to allow the user to save his initials and score by completing the following requirement: first the user has to click on the start bottom to allow the timer to begin, and with some questions to answer. next, anytime the user answer question, he will be presented with another question. if the question the user fails the question, then the time is subtrated from the clock. when the user answer all questions or times reaches 0, then the game start over. from this project, I learned that I can use some javascript code, css , Html to build a time quiz code with multiple questions
+The purpose of the User-react-directory is that we want to be able to view the entire employee directory at once so that we have have quick access to their information.An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name. in the exercice we use Hooks to converted all Class components to Function components, useContext instead pass props, and  Use useEffet.
+
+API USED: randomuser.me
 
 click on the link bellow to see the project in activation : https://stark-stream-59293.herokuapp.com/
 https://github.com/papy1974/user-react-directory/issues/1#issue-642286836
