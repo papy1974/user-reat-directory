@@ -1,7 +1,9 @@
 title
+
 The project is named User-react-directory.
 
 objective
+
 The purpose of the User-react-directory is that we want to be able to view the entire employee directory at once so that we have have quick access to their information.An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name. in the exercice we use Hooks to converted all Class components to Function components, useContext instead pass props, and useEffet.
 
 API USED: randomuser.me
@@ -13,9 +15,11 @@ installation
 In order to use the project the following software must be installed in your computer. Git bash, and visual studio that can be done in a lap top or a mac. Git can be download from the fallowing link: https://git-scm.com/download/win, and here is the link for downloading visual studio: visualstudio.microsoft.com. It's better to use windows 10 while using the project. both Git bash and visual studio will allow thE user the have acces to the codes that help to build a project. from this project, I learned how  I can use hook to converted all Class components to Function components, useContext instead pass props, and  useEffet.
 
 example usage
+
 After forking and cloning the project repertory from Github, the following code can be type in git bash to view the project codes and files: git clone to get project in your directory, cd project name, and code follow by (.). open the terminal and type npm install. At the end type npm start to open the in your localhost.
 
 Environment
+
 I am excpeting my project to be pull by others in order to make some suggestion on some block of codes and send me feedback .I can also be contacted by emails:papylotomba@yahoo.fr.
 
 license and copyright.
